@@ -356,4 +356,195 @@ effort last year.</p>
 </ol>
 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>These are the billionaires supporting Donald Trump</h2>
+<ol>
+  <li>Billionaire Elon Musk endorsed Donald Trump after assassination attempt</li>
+  <li>David Sacks praised Trump for picking Sen. JD Vance as his vice president</li>
+  <li>Stephen Schwarzman also endorsed Trump for president</li>
+</ol>
+<p>Billionaire Elon Musk endorsed Donald Trump after an assassination attempt on the former president at a Pennsylvania rally, marking a turning point for Musk and his political shift toward the right in recent years.</p>
+<blockquote>
+“I fully endorse President Trump and hope for his rapid recovery,” Musk wrote in a post on his social platform X alongside a video of the former president standing and raising his fist after being shot in the ear.
+</blockquote>
+<ol>
+  <li>Elon Musk<br>
+    <p>Musk reportedly donated to a super PAC called America PAC. According to The New York Times, some of Musk’s closest friends helped start it, creating an avenue for Musk and his $250 billion fortune to play a significant role in the 2024 presidential race potentially.</p>
+    <p>However, Musk this week denied media reports that he has pledged to donate $45 million a month to Trump’s campaign.</p>
+    <p>But he isn’t the only billionaire throwing his support behind the Republican nominee.</p>
+  </li>
+  <li>Bill Ackman<br>
+    <p>Hedge fund billionaire Bill Ackman also took the opportunity to formally endorse Trump, posting on X, “A divided America is a weak America. Let’s help Trump succeed and bring the country together.”</p>
+  </li>
+  <li>David Sacks, Jacqueline Sacks<br>
+    <p>Venture capitalist and host of “The All-in Podcast” David Sacks took to X to praise the decision of Trump picking Sen. JD Vance as his vice president.</p>
+<blockquote>
+“When the Twin Towers came down, J.D. Vance enlisted in the Marine Corps, gung-ho to exact justice on America’s enemies,” Sacks wrote. “Subsequently he came to believe the Forever Wars were a mistake. This is who I want by Trump’s side: an American patriot, with the courage to fight America’s wars but the wisdom to know when to avoid them. God bless J.D., God bless Trump, and God bless the USA.”
+</blockquote>
+  <p>Sacks, along with his wife, Jacqueline Sacks, recently held a fundraiser for Trump at his Pacific Heights mansion. The event was co-hosted by Sri Lankan businessman Chamath Palihapitiya, who co-hosts the podcast with Sacks.</p>
+</li>
+<li>Timothy Mellon<br>
+In May, a Trump super PAC, MAGA Inc., received $50 million from businessman Timothy Mellon following the former president’s conviction, according to NBC News. The investment also followed the presumptive GOP nominee’s foray into cryptocurrency, seemingly turning away from his previous aversion to the form of payment.
+  </li>
+  <li>Shaun Maguire<br>
+    <p>Shaun Maguire, a partner at Sequoia Capital, gave $300,000 to the Trump campaign after the ruling as well, the New York Times reported.</p>
+  </li>
+  <li>Douglas Leone<br>
+<p>Venture capitalist Douglas Leone, former managing partner at Sequoia Capital, announced on X in June that he’d be supporting Trump. This support comes after Leone said in 2021 that the former president had lost his support after the Jan. 6, 2021, attack on the Capitol.</p>
+  </li>
+  <li>Stephen Schwarzman<br>
+<p>Blackstone chief executive Stephen Schwarzman also endorsed Trump for president as a “vote for change,” the Financial Times reported.</p>
+
+  </li>
+  <li>Jamie Dimon<br>
+<p>J.P. Morgan Chase CEO Jamie Dimon, who was urging fellow business leaders to back former GOP candidate Nikki Haley, offered praise for Trump’s first-term policies while at the World Economic Forum in Davos, Switzerland.</p>
+<blockquote>
+“Just take a step back and be honest,” Dimon said. “He was kind of right about NATO. He was kind of right about immigration. He grew the economy quite well. Trade, tax reform worked. He was right about some of China.”
+</blockquote>
+  </li>
+  <li>Ken Griffin, Paul Singer<br>
+<p>Billionaire investors Ken Griffin of Citadel and Paul Singer of Elliott Management, who have criticized Trump, met with the former president to discuss donating to his White House bid, Bloomberg reported.</p>
+
+  </li>
+  <li>Miriam Adelson<br>
+<p>Casino billionaire and Republican megadonor Miriam Adelson is the lead financier of a spending group backing Trump. The Preserve America super PAC, which Adelson and her late husband, Sheldon Adelson, donated to in the 2020 election cycle, has been revived, and Adelson will be a “lead donor” this time around too, said Dave Carney, a Republican strategist who will run the group.</p>
+
+  </li>
+  <li>Liz Uihlein<br>
+<p>Uline shipping and packaging company co-founder Liz Uihlein said she would support Trump after donating to Florida Gov. Ron DeSantis’ primary campaign, Forbes reported.</p>
+
+  </li>
+  <li>Woody Johnson<br>
+<p>An heir to the Johnson and Johnson pharmaceutical fortune and co-owner of the New York Jets, Woody Johnson has become one of Trump’s biggest backers. Johnson donated $1 million to a Trump super PAC, MAGA Inc.</p>
+
+<p>Johnson also served as the U.S. ambassador to the United Kingdom during Trump’s presidency.</p>
+
+  </li>
+  <li>Bernie Marcus<br>
+<p>The Home Depot co-founder Bernie Marcus co-hosted an Atlanta fundraiser for Trump in April, according to Forbes.</p>
+  </li>
+</ol>
+<h3>More names</h3>
+<ul>
+  <li>Continental Resources founder Harold Hamm, </li>
+  <li>Energy Transfer pipeline company founder Kelcy Warren, </li>
+  <li>CEO of Marvel Entertainment Isaac Perlmutter, </li>
+  <li>Chairman of TD Ameritrade J. Joe Ricketts, </li>
+  <li>hedge fund billionaire John Paulson, </li>
+  <li>former casino mogul Steve Wynn, </li>
+  <li>Los Angeles real estate magnate Geoffrey Palmer, </li>
+  <li>co-founder of World Wrestling Entertainment Linda McMahon, </li>
+  <li>casino magnate Phil Ruffin, </li>
+  <li>Texas oil businessman Timothy Dunn have also donated to Trump’s reelection bid, according to Forbes.</li>
+</ul>
+
+Here's a list of top billionaires backing Trump, as reported by Bloomberg:
+<ol>
+  <li>Elon Musk</li>
+  <li>Stephen Schwarzman</li>
+  <li>Thomas Peterffy</li>
+  <li>Miriam Adelson</li>
+  <li>Jeff Hildebrand</li>
+  <li>Jan Koum</li>
+  <li>Harold Hamm</li>
+  <li>Diane Hendricks</li>
+  <li>Tilman Fertitta</li>
+  <li>Andy Beal</li>
+  <li>Marc Rowan</li>
+  <li>Woody Johnson IV</li>
+  <li>Bill Ackman</li>
+  <li>Joe Ricketts</li>
+  <li>Bernie Marcus</li>
+  <li>Kelcy Warren</li>
+  <li>Edward Roski</li>
+  <li>Gary Rollins</li>
+</ol>
+List of Companies and Executives Who Have Donated to Donald Trump
+Below are a list of companies that have either donated to Trump's presidential campaign or the Presidential Inaugural Committee.
+
+<ol>
+  <li>Elon Musk: $290 million</li>
+  <li>Timothy Mellon: $150 million</li>
+  <li>Adelson Clinic for Drug Abuse Treatment & Research: $106 million</li>
+  <li>Linda McMahon of WWE: $16 million</li>
+  <li>Hendricks Holding Co: $15 million</li>
+  <li>Bigelow Aerospace: $14.1 million</li>
+  <li>Laura & Issac Perlmutter Foundation: 12.4 million</li>
+  <li>ABC Supply: $11 million</li>
+  <li>Cantor Fitzgerald: $11 million</li>
+  <li>Uline: $10 million</li>
+  <li>Pratt Industries: $10 million</li>
+  <li>British American Tobacco: $10 million</li>
+  <li>Southern Waste Systems: $9 million</li>
+  <li>Elliott Management: $7 million</li>
+  <li>Andreessen Horowitz: $7 million</li>
+  <li>Viotl Inc: $6 million</li>
+  <li>Timothy Dunn of CrownQuest: $5 million</li>
+  <li>Jeff Sprecher of Intercontinental Exchange and Kelly Loeffler: $4.9 million</li>
+  <li>Phil Ruffin, a business partner of Trump's: $3.3 million</li>
+  <li>Jimmy John Liautaud of Jimmy John's: $3.1 million</li>
+  <li>Geoffrey Palmer: $3 million</li>
+  <li>Bernard Marcus, former CEO of Home Depot: $2.7 million</li>
+  <li>Robert Johnson, owner of New York Jets: $2.7 million</li>
+  <li>Winklevoss twins: $2.6 million</li>
+  <li>Kenny Troutt of Excel Communications: $2.2 million</li>
+  <li>George Bishop of GeoSouthern Energy: $2 million</li>
+  <li>J. Joe Ricketts of TD Ameritrade: $2 million</li>
+  <li>Chevron: $2 million</li>
+  <li>Robinhood Markets: $2 million</li>
+  <li>Andrew Beal of Beal Bank: $1.8 million</li>
+  <li>Don Ahern of Xtreme Manufacturing: $1.1 million</li>
+  <li>Roger Penske of Penske Corporation: $1.1 million</li>
+  <li>Steve Wynn: $1.1 million</li>
+  <li>Richard Kurtz of The Kamson Corporation: $1.1 million</li>
+  <li>Antonio Gracias of Valor Equity Partners: $1 million</li>
+  <li>Douglas Leone of Sequoia Capital: $1 million</li>
+  <li>OpenAI: $1 million</li>
+  <li>ExxonMobil: $1 million</li>
+  <li>Amazon: $1 million</li>
+  <li>Meta: $1 million</li>
+  <li>Uber: $1 million</li>
+  <li>Boeing: $1 million</li>
+  <li>Qualcomm: $1 million</li>
+  <li>Coinbase: $1 million</li>
+  <li>Kraken: $1 million</li>
+  <li>Galaxy Digital Holdings: $1 million</li>
+  <li>Crypto.com: $1 million</li>
+  <li>Paradigm Operations: $1 million</li>
+  <li>Goldman Sachs: $1 million</li>
+  <li>Altria: $1 million</li>
+  <li>Pharmaceutical Research and Manufacturers of America: $1 million</li>
+  <li>Bayer: $1 million</li>
+  <li>Johnson & Johnson: $1 million</li>
+  <li>National Association of Manufacturers: $1 million</li>
+  <li>AT&T: $1 million</li>
+  <li>Comcast: $1 million</li>
+  <li>Verizon: $1 million</li>
+  <li>Carrier: $1 million</li>
+  <li>Intuit: $1 million</li>
+  <li>Coupang: $1 million</li>
+  <li>GE Vernova: $500,000</li>
+  <li>QCells: $500,000</li>
+  <li>Ericsson: $500,000</li>
+  <li>CoreCivic: $500,000</li>
+  <li>GEO Group: $500,000</li>
+  <li>Abbott Laboratories: $500,000</li>
+  <li>PayPal: $250,000</li>
+  <li>HCA Healthcare: $250,000</li>
+  <li>Oklo Inc: $250,000</li>
+  <li>Coca-Cola: $250,000</li>
+  <li>American Beverage Association: $250,000</li>
+  <li>Syngenta: $250,000</li>
+  <li>International Flavors & Fragrances: $250,000</li>
+  <li>Elevance Health: $150,000</li>
+  <li>American Clean Power Association: $100,000</li>
+  <li>Instacart: $100,000</li>
+  <li>Airbnb: $100,000</li>
+  <li>Socure: $100,000</li>
+  <li>Barnes & Thornburg LLP: $100,000</li>
+</ol>
+
+
+
+
 
