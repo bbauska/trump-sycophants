@@ -29,7 +29,7 @@ The Trump Victory Fund through which these individuals showed their support to t
 president and bankrolled the wider pro-Trump movement was created as a joint fundraising 
 account for the Trump 2020 campaign and the Republican National Committee. In a 
 statement on Tuesday, IPS detailed the top ten billionaires who gave to the fund as:
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol type="1">
   <li>Gas pipeline magnate Kelcy Lee Warren, worth $2.9 billion, gave eight donations 
     totaling $2,248,906.</li>
@@ -38,14 +38,14 @@ statement on Tuesday, IPS detailed the top ten billionaires who gave to the fund
   <li>Telecommunications mogul Kenny Troutt, worth $1.5 billion, donated $1,849,000.</li>
   <li>Biotech investor Robert Duggan, worth $2.6 billion, donated $1,638,200 to the Trump 
     Victory Fund. In the final days of the campaign, Duggan gave $4.6 million to various 
-	Trump campaign groups, according to Forbes.</li>
+    Trump campaign groups, according to Forbes.</li>
   <li>Casino magnate Steve Wynn, worth $3 billion, contributed over $1,523,500.</li>
   <li>Casino owner, Phillip Gene Ruffin, worth $2.3 billion, donated $1,375,000.</li>
   <li>Owner of ABC Supply, the giant home supplier, Diane Hendricks $8 billion (Forbes), 
     donated $1,175,000.</li>
   <li>Casino megadonor Sheldon Adelson, and his wife Miriam Adelson, worth over $35.9 
     billion (Forbes), contributed $1.16 million, along with massive donations to other 
-	Republican PACs and candidates.</li>
+    Republican PACs and candidates.</li>
   <li>Texas Banker Daniel Andrew Beal, worth $7.5 billion, gave $1,161,200.</li>
   <li>Software entrepreneur David Duffield, worth $13.3 billion, donated $1,151,600.</li>
 </ol>
@@ -75,37 +75,37 @@ crisis in our democracy."
   <li>Linda McMahon (spouse of Vince McMahon)<br>
     Donations to Trump groups: $16 million | Net worth: $3.1 billion<br>
     <p>McMahon and her husband Vince (now disgraced by sexual misconduct allegations that he 
-	  denies) built World Wrestling Entertainment into a billion-dollar entertainment 
-	  juggernaut. She has been involved in politics for years, running unsuccessfully for 
-	  Senate in Connecticut in 2010 and 2012 and then serving as head of the Small Business 
-	  Administration under Trump. She’s still close to the center of the MAGA orbit, chairing 
-	  the pro-Trump nonprofit America First Policy Institute, serving on the board of Truth 
-	  Social’s parent company, Trump Media and Technology Group and having contributed more 
-	  than $15 million to Trump’s PACs.</p></li>
+      denies) built World Wrestling Entertainment into a billion-dollar entertainment 
+      juggernaut. She has been involved in politics for years, running unsuccessfully for 
+      Senate in Connecticut in 2010 and 2012 and then serving as head of the Small Business 
+      Administration under Trump. She’s still close to the center of the MAGA orbit, chairing 
+      the pro-Trump nonprofit America First Policy Institute, serving on the board of Truth 
+      Social’s parent company, Trump Media and Technology Group and having contributed more 
+      than $15 million to Trump’s PACs.</p></li>
   <li>Diane Hendricks<br>
     Donations to Trump groups: $6.3 million | Net worth: $20.9 billion<br>
-	<p>On the stage at the Republican National Convention in her home state of Wisconsin last 
-	  month, Hendricks celebrated her title of America’s richest self-made woman, spoke about 
-	  her pro-life views and accused the Biden-Harris administration of stifling 
-	  entrepreneurship. A former Playboy bunny, her building materials company ABC Supply 
-	  now does $20 billion in yearly revenue. “I know how hard it is to build a company from 
-	  nothing,” she said. “And we need a president who understands that too.” She clearly 
-	  believes Trump fits the bill: she has already poured more than $6 million into groups 
-	  that support him.</p>
+    <p>On the stage at the Republican National Convention in her home state of Wisconsin last 
+      month, Hendricks celebrated her title of America’s richest self-made woman, spoke about 
+      her pro-life views and accused the Biden-Harris administration of stifling 
+      entrepreneurship. A former Playboy bunny, her building materials company ABC Supply 
+      now does $20 billion in yearly revenue. “I know how hard it is to build a company from 
+      nothing,” she said. “And we need a president who understands that too.” She clearly 
+      believes Trump fits the bill: she has already poured more than $6 million into groups 
+      that support him.</p>
   </li>
   <li>Miriam Adelson<br>
     Donations to Trump groups: $5.8 million | Net worth: $27.8 billion<br>
-	<p>A medical doctor and the widow of casino magnate and longtime Republican megadonor 
-	  Sheldon Adelson, Israeli-born Miriam Adelson now owns a majority stake in the Las Vegas 
-	  Sands casino empire and the NBA’s Dallas Mavericks. The Adelsons gave an eye-popping 
-	  $220 million to Republican causes in 2020, and Miriam is continuing to give big sums in 
-	  the wake of Sheldon’s death in 2021. She has spent more than $20 million this cycle, 
-	  almost all of which came on a single day in May. According to a New York Times report, 
-	  Adelson plans to spend more than $90 million to support Trump (she’s given $5.8 million 
-	  so far), but she has a few requests: “Be less bombastic” and “speak more directly about 
-	  the economy.” She may not follow through on the full amount though–over the weekend, 
-	  the Times reported that she and Trump recently exchanged a series of angry texts, 
-	  during which the former president said her PAC was run by “Republicans in name only.”</p>
+    <p>A medical doctor and the widow of casino magnate and longtime Republican megadonor 
+      Sheldon Adelson, Israeli-born Miriam Adelson now owns a majority stake in the Las Vegas 
+      Sands casino empire and the NBA’s Dallas Mavericks. The Adelsons gave an eye-popping 
+      $220 million to Republican causes in 2020, and Miriam is continuing to give big sums in 
+      the wake of Sheldon’s death in 2021. She has spent more than $20 million this cycle, 
+      almost all of which came on a single day in May. According to a New York Times report, 
+      Adelson plans to spend more than $90 million to support Trump (she’s given $5.8 million 
+      so far), but she has a few requests: “Be less bombastic” and “speak more directly about 
+      the economy.” She may not follow through on the full amount though–over the weekend, 
+      the Times reported that she and Trump recently exchanged a series of angry texts, 
+      during which the former president said her PAC was run by “Republicans in name only.”</p>
   </li>
   <li>Kelcy Warren<br>
     Donations to Trump groups: $5.8 million | Net worth: $6.2 billion<br>
@@ -118,11 +118,11 @@ crisis in our democracy."
   <li>Timothy Dunn<br>
     Donations to Trump groups: $5 million | Net worth: $2.2 billion<br>
     <p>Trump reportedly pushed for $1 billion in contributions from oil executives during a May 
-	  meeting, but Dunn is among those who didn’t need any asking–he cut a $5 million check to 
-	  Trump’s super-PAC back in December. Dunn’s West Texas-based well operator CrownQuest is 
-	  one of the country’s largest private oil companies. He wasn’t on the Trump train in 
-	  2016, but he started donating in 2020 and has scaled up his giving to Trump and other 
-	  Republicans this cycle.</p>
+      meeting, but Dunn is among those who didn’t need any asking–he cut a $5 million check to 
+      Trump’s super-PAC back in December. Dunn’s West Texas-based well operator CrownQuest is 
+      one of the country’s largest private oil companies. He wasn’t on the Trump train in 
+      2016, but he started donating in 2020 and has scaled up his giving to Trump and other 
+      Republicans this cycle.</p>
   </li>
   <li>Elizabeth Uihlein<br>
 Donations to Trump groups: $5 million | Net worth: $6 billion<br>
@@ -242,26 +242,26 @@ a $100 million scholarship fund at George’s alma mater, Mississippi State Univ
   <li>J. Joe Ricketts<br>
     Donation to Trump groups: $2 million | Net worth: $3.6 billion<br>
     <p>Ricketts, whose family owns the Chicago Cubs, capitalized on the online trading 
-	  revolution to grow his small brokerage firm into the financial service giant TD 
-	  Ameritrade, now a subsidiary of Charles Schwab. He and his wife Marlene–who poured 
-	  $3 million into a Republican anti-Trump group back in 2016–have given a combined $2 
-	  million to Trump groups so far this cycle. But the TD Ameritrade fortune flows to 
-	  both sides of the aisle: their daughter Laura, the first openly lesbian owner of a 
-	  major sports franchise, has recently emerged as a prominent Democratic donor. “The 
-	  free enterprise system and individualism have been at the heart of American 
-	  prosperity,” J.Joe Ricketts said in a statement to Forbes explaining his support 
-	  for Trump. “I support candidates who are committed to preserving those core 
-	  American values.”</p>
+      revolution to grow his small brokerage firm into the financial service giant TD 
+      Ameritrade, now a subsidiary of Charles Schwab. He and his wife Marlene–who poured 
+      $3 million into a Republican anti-Trump group back in 2016–have given a combined $2 
+      million to Trump groups so far this cycle. But the TD Ameritrade fortune flows to 
+      both sides of the aisle: their daughter Laura, the first openly lesbian owner of a 
+      major sports franchise, has recently emerged as a prominent Democratic donor. “The 
+      free enterprise system and individualism have been at the heart of American 
+      prosperity,” J.Joe Ricketts said in a statement to Forbes explaining his support 
+      for Trump. “I support candidates who are committed to preserving those core 
+      American values.”</p>
   </li>
   <li>Andrew Beal<br>
     Donations to Trump groups: $1.8 million | Net worth: $12.2 billion<br>
     <p>Beal has made a fortune buying up distressed assets–including during the savings and loan 
-	crisis and in the wake of the great recession–and has made headlines for his high-stakes 
-	poker games and interest in math: In 1997, he established a $1 million prize for the 
-	first person to prove or disprove a conjecture he formulated based on Fermat’s Last 
-	Theorem. Lately, he’s increasingly bet big on Republican politics. Beal gave more than 
-	$4 million Trump committees and other GOP groups in 2020, and he has now put $1.8 million 
-	behind Trump’s 2024 bid.</p>
+    crisis and in the wake of the great recession–and has made headlines for his high-stakes 
+    poker games and interest in math: In 1997, he established a $1 million prize for the 
+    first person to prove or disprove a conjecture he formulated based on Fermat’s Last 
+    Theorem. Lately, he’s increasingly bet big on Republican politics. Beal gave more than 
+    $4 million Trump committees and other GOP groups in 2020, and he has now put $1.8 million 
+    behind Trump’s 2024 bid.</p>
   </li>
   <li>Cameron Winklevoss<br>
 Donations to Trump groups: $1.3 million | Net worth: $2.7 billion<br>
@@ -357,88 +357,128 @@ effort last year.</p>
 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>These are the billionaires supporting Donald Trump</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol>
   <li>Billionaire Elon Musk endorsed Donald Trump after assassination attempt</li>
   <li>David Sacks praised Trump for picking Sen. JD Vance as his vice president</li>
   <li>Stephen Schwarzman also endorsed Trump for president</li>
 </ol>
-<p>Billionaire Elon Musk endorsed Donald Trump after an assassination attempt on the former president at a Pennsylvania rally, marking a turning point for Musk and his political shift toward the right in recent years.</p>
+<p>Billionaire Elon Musk endorsed Donald Trump after an assassination attempt on the 
+former president at a Pennsylvania rally, marking a turning point for Musk and his 
+political shift toward the right in recent years.</p>
 <blockquote>
-“I fully endorse President Trump and hope for his rapid recovery,” Musk wrote in a post on his social platform X alongside a video of the former president standing and raising his fist after being shot in the ear.
+“I fully endorse President Trump and hope for his rapid recovery,” Musk wrote in a 
+post on his social platform X alongside a video of the former president standing 
+and raising his fist after being shot in the ear.
 </blockquote>
 <ol>
   <li>Elon Musk<br>
-    <p>Musk reportedly donated to a super PAC called America PAC. According to The New York Times, some of Musk’s closest friends helped start it, creating an avenue for Musk and his $250 billion fortune to play a significant role in the 2024 presidential race potentially.</p>
-    <p>However, Musk this week denied media reports that he has pledged to donate $45 million a month to Trump’s campaign.</p>
+    <p>Musk reportedly donated to a super PAC called America PAC. According to The New 
+	  York Times, some of Musk’s closest friends helped start it, creating an avenue 
+	  for Musk and his $250 billion fortune to play a significant role in the 2024 
+	  presidential race potentially.</p>
+    <p>However, Musk this week denied media reports that he has pledged to donate $45 
+	  million a month to Trump’s campaign.</p>
     <p>But he isn’t the only billionaire throwing his support behind the Republican nominee.</p>
   </li>
   <li>Bill Ackman<br>
-    <p>Hedge fund billionaire Bill Ackman also took the opportunity to formally endorse Trump, posting on X, “A divided America is a weak America. Let’s help Trump succeed and bring the country together.”</p>
+    <p>Hedge fund billionaire Bill Ackman also took the opportunity to formally endorse 
+	  Trump, posting on X, “A divided America is a weak America. Let’s help Trump succeed 
+	  and bring the country together.”</p>
   </li>
   <li>David Sacks, Jacqueline Sacks<br>
-    <p>Venture capitalist and host of “The All-in Podcast” David Sacks took to X to praise the decision of Trump picking Sen. JD Vance as his vice president.</p>
-<blockquote>
-“When the Twin Towers came down, J.D. Vance enlisted in the Marine Corps, gung-ho to exact justice on America’s enemies,” Sacks wrote. “Subsequently he came to believe the Forever Wars were a mistake. This is who I want by Trump’s side: an American patriot, with the courage to fight America’s wars but the wisdom to know when to avoid them. God bless J.D., God bless Trump, and God bless the USA.”
-</blockquote>
-  <p>Sacks, along with his wife, Jacqueline Sacks, recently held a fundraiser for Trump at his Pacific Heights mansion. The event was co-hosted by Sri Lankan businessman Chamath Palihapitiya, who co-hosts the podcast with Sacks.</p>
-</li>
-<li>Timothy Mellon<br>
-In May, a Trump super PAC, MAGA Inc., received $50 million from businessman Timothy Mellon following the former president’s conviction, according to NBC News. The investment also followed the presumptive GOP nominee’s foray into cryptocurrency, seemingly turning away from his previous aversion to the form of payment.
+    <p>Venture capitalist and host of “The All-in Podcast” David Sacks took to X to 
+	  praise the decision of Trump picking Sen. JD Vance as his vice president.</p>
+    <blockquote>
+      “When the Twin Towers came down, J.D. Vance enlisted in the Marine Corps, gung-ho to 
+	  exact justice on America’s enemies,” Sacks wrote. “Subsequently he came to believe the 
+	  Forever Wars were a mistake. This is who I want by Trump’s side: an American patriot, 
+	  with the courage to fight America’s wars but the wisdom to know when to avoid them. 
+	  God bless J.D., God bless Trump, and God bless the USA.”
+    </blockquote>
+    <p>Sacks, along with his wife, Jacqueline Sacks, recently held a fundraiser for Trump 
+	  at his Pacific Heights mansion. The event was co-hosted by Sri Lankan businessman 
+	  Chamath Palihapitiya, who co-hosts the podcast with Sacks.</p>
+  </li>
+  <li>Timothy Mellon<br>
+    <p>In May, a Trump super PAC, MAGA Inc., received $50 million from businessman 
+	  Timothy Mellon following the former president’s conviction, according to NBC News. 
+	  The investment also followed the presumptive GOP nominee’s foray into 
+	  cryptocurrency, seemingly turning away from his previous aversion to the form of 
+	  payment.</p>
   </li>
   <li>Shaun Maguire<br>
-    <p>Shaun Maguire, a partner at Sequoia Capital, gave $300,000 to the Trump campaign after the ruling as well, the New York Times reported.</p>
+    <p>Shaun Maguire, a partner at Sequoia Capital, gave $300,000 to the Trump campaign 
+	  after the ruling as well, the New York Times reported.</p>
   </li>
   <li>Douglas Leone<br>
-<p>Venture capitalist Douglas Leone, former managing partner at Sequoia Capital, announced on X in June that he’d be supporting Trump. This support comes after Leone said in 2021 that the former president had lost his support after the Jan. 6, 2021, attack on the Capitol.</p>
+    <p>Venture capitalist Douglas Leone, former managing partner at Sequoia Capital, 
+      announced on X in June that he’d be supporting Trump. This support comes after 
+      Leone said in 2021 that the former president had lost his support after the Jan. 
+      6, 2021, attack on the Capitol.</p>
   </li>
   <li>Stephen Schwarzman<br>
-<p>Blackstone chief executive Stephen Schwarzman also endorsed Trump for president as a “vote for change,” the Financial Times reported.</p>
-
+    <p>Blackstone chief executive Stephen Schwarzman also endorsed Trump for president as 
+      a “vote for change,” the Financial Times reported.</p>
   </li>
   <li>Jamie Dimon<br>
-<p>J.P. Morgan Chase CEO Jamie Dimon, who was urging fellow business leaders to back former GOP candidate Nikki Haley, offered praise for Trump’s first-term policies while at the World Economic Forum in Davos, Switzerland.</p>
-<blockquote>
-“Just take a step back and be honest,” Dimon said. “He was kind of right about NATO. He was kind of right about immigration. He grew the economy quite well. Trade, tax reform worked. He was right about some of China.”
-</blockquote>
+    <p>J.P. Morgan Chase CEO Jamie Dimon, who was urging fellow business leaders to back 
+      former GOP candidate Nikki Haley, offered praise for Trump’s first-term policies 
+      while at the World Economic Forum in Davos, Switzerland.</p>
+    <blockquote>
+      “Just take a step back and be honest,” Dimon said. “He was kind of right about NATO. 
+      He was kind of right about immigration. He grew the economy quite well. Trade, tax 
+      reform worked. He was right about some of China.”
+    </blockquote>
   </li>
   <li>Ken Griffin, Paul Singer<br>
-<p>Billionaire investors Ken Griffin of Citadel and Paul Singer of Elliott Management, who have criticized Trump, met with the former president to discuss donating to his White House bid, Bloomberg reported.</p>
-
+    <p>Billionaire investors Ken Griffin of Citadel and Paul Singer of Elliott 
+      Management, who have criticized Trump, met with the former president to discuss 
+      donating to his White House bid, Bloomberg reported.</p>
   </li>
   <li>Miriam Adelson<br>
-<p>Casino billionaire and Republican megadonor Miriam Adelson is the lead financier of a spending group backing Trump. The Preserve America super PAC, which Adelson and her late husband, Sheldon Adelson, donated to in the 2020 election cycle, has been revived, and Adelson will be a “lead donor” this time around too, said Dave Carney, a Republican strategist who will run the group.</p>
-
+    <p>Casino billionaire and Republican megadonor Miriam Adelson is the lead financier 
+      of a spending group backing Trump. The Preserve America super PAC, which Adelson 
+      and her late husband, Sheldon Adelson, donated to in the 2020 election cycle, has 
+      been revived, and Adelson will be a “lead donor” this time around too, said Dave 
+      Carney, a Republican strategist who will run the group.</p>
   </li>
   <li>Liz Uihlein<br>
-<p>Uline shipping and packaging company co-founder Liz Uihlein said she would support Trump after donating to Florida Gov. Ron DeSantis’ primary campaign, Forbes reported.</p>
-
+    <p>Uline shipping and packaging company co-founder Liz Uihlein said she would support 
+      Trump after donating to Florida Gov. Ron DeSantis’ primary campaign, Forbes reported.</p>
   </li>
   <li>Woody Johnson<br>
-<p>An heir to the Johnson and Johnson pharmaceutical fortune and co-owner of the New York Jets, Woody Johnson has become one of Trump’s biggest backers. Johnson donated $1 million to a Trump super PAC, MAGA Inc.</p>
-
-<p>Johnson also served as the U.S. ambassador to the United Kingdom during Trump’s presidency.</p>
-
+    <p>An heir to the Johnson and Johnson pharmaceutical fortune and co-owner of the New 
+      York Jets, Woody Johnson has become one of Trump’s biggest backers. Johnson donated 
+      $1 million to a Trump super PAC, MAGA Inc.</p>
+    <p>Johnson also served as the U.S. ambassador to the United Kingdom during Trump’s 
+      presidency.</p>
   </li>
   <li>Bernie Marcus<br>
-<p>The Home Depot co-founder Bernie Marcus co-hosted an Atlanta fundraiser for Trump in April, according to Forbes.</p>
+    <p>The Home Depot co-founder Bernie Marcus co-hosted an Atlanta fundraiser for Trump 
+      in April, according to Forbes.</p>
   </li>
 </ol>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>More names</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
-  <li>Continental Resources founder Harold Hamm, </li>
-  <li>Energy Transfer pipeline company founder Kelcy Warren, </li>
-  <li>CEO of Marvel Entertainment Isaac Perlmutter, </li>
-  <li>Chairman of TD Ameritrade J. Joe Ricketts, </li>
-  <li>hedge fund billionaire John Paulson, </li>
-  <li>former casino mogul Steve Wynn, </li>
-  <li>Los Angeles real estate magnate Geoffrey Palmer, </li>
-  <li>co-founder of World Wrestling Entertainment Linda McMahon, </li>
-  <li>casino magnate Phil Ruffin, </li>
+  <li>Continental Resources founder Harold Hamm,</li>
+  <li>Energy Transfer pipeline company founder Kelcy Warren,</li>
+  <li>CEO of Marvel Entertainment Isaac Perlmutter,</li>
+  <li>Chairman of TD Ameritrade J. Joe Ricketts,</li>
+  <li>hedge fund billionaire John Paulson,</li>
+  <li>former casino mogul Steve Wynn,</li>
+  <li>Los Angeles real estate magnate Geoffrey Palmer,</li>
+  <li>co-founder of World Wrestling Entertainment Linda McMahon,</li>
+  <li>casino magnate Phil Ruffin,</li>
   <li>Texas oil businessman Timothy Dunn have also donated to Trump’s reelection bid, according to Forbes.</li>
 </ul>
-
-Here's a list of top billionaires backing Trump, as reported by Bloomberg:
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Here's a list of top billionaires backing Trump, as reported by Bloomberg:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol>
   <li>Elon Musk</li>
   <li>Stephen Schwarzman</li>
@@ -459,9 +499,11 @@ Here's a list of top billionaires backing Trump, as reported by Bloomberg:
   <li>Edward Roski</li>
   <li>Gary Rollins</li>
 </ol>
-List of Companies and Executives Who Have Donated to Donald Trump
-Below are a list of companies that have either donated to Trump's presidential campaign or the Presidential Inaugural Committee.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>List of Companies and Executives Who Have Donated to Donald Trump</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Below are a list of companies that have either donated to Trump's presidential 
+campaign or the Presidential Inaugural Committee.</p>
 <ol>
   <li>Elon Musk: $290 million</li>
   <li>Timothy Mellon: $150 million</li>
