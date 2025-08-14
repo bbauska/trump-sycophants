@@ -1,3 +1,4 @@
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of trump-sycophants.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1>These 63 Billionaires Who Bankrolled Trump All the Way to Insurrection Have 'No Right 
 to Feel Shocked'</h1>
@@ -13,24 +14,24 @@ who saw what damage he caused and still stood by him?"
 who saw what damage he caused and still stood by him?"
 </blockquote>
 
-That's the question asked Tuesday by Chuck Collins, director of the Project on Inequality 
+<p>That's the question asked Tuesday by Chuck Collins, director of the Project on Inequality 
 and the Common Good at the Institute for Policy Studies, following the release of a new 
 analysis that identified 63 U.S. billionaires--worth a combined $243 billion--who 
 collectively gave $33 million to the Trump Victory Fund over the last two years leading 
-up to the 2020 presidential election.
+up to the 2020 presidential election.</p>
 
-In the wake of last week's insurrection at the U.S. Capitol building by a pro-Trump mob 
+<p>In the wake of Jan 6, 2020 insurrection at the U.S. Capitol building by a pro-Trump mob 
 incited by the president himself, Collins said these "titans of our economy have no right 
-to feel shocked" over what happened.
+to feel shocked" over what happened.</p>
 
-"They enabled Donald Trump. They bankrolled his campaigns. And they cheered as Trump cut 
+<p>"They enabled Donald Trump. They bankrolled his campaigns. And they cheered as Trump cut 
 their taxes, swept away regulations that pinched their profits, and packed the courts 
-with judges eager to wink at their transgressions," said Collins.
+with judges eager to wink at their transgressions," said Collins.</p>
 
-The Trump Victory Fund through which these individuals showed their support to the 
+<p>The Trump Victory Fund through which these individuals showed their support to the 
 president and bankrolled the wider pro-Trump movement was created as a joint fundraising 
 account for the Trump 2020 campaign and the Republican National Committee. In a 
-statement on Tuesday, IPS detailed the top ten billionaires who gave to the fund as:
+statement on Tuesday, IPS detailed the top ten billionaires who gave to the fund as:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol type="1">
   <li>Gas pipeline magnate Kelcy Lee Warren, worth $2.9 billion, gave eight donations 
@@ -52,16 +53,16 @@ statement on Tuesday, IPS detailed the top ten billionaires who gave to the fund
   <li>Software entrepreneur David Duffield, worth $13.3 billion, donated $1,151,600.</li>
 </ol>
 
-Included in that list is Sheldon Adelson, the casino magnet and far-right supporter of 
+<p>Included in that list is Sheldon Adelson, the casino magnet and far-right supporter of 
 Israel's apartheid policies, who died Tuesday. Other notable billionaires in the total 
 list include: Blackstone CEO Stephen Schwarzman, worth $20.9 billion, who gave $355,000; 
 Hedge fund manager John Paulson, worth $4.2 billion, who donated $831,372; and Johnson 
-& Johnson heir Robert Wood Johnson IV, worth $2.5 billion, who contributed $575,000.
+& Johnson heir Robert Wood Johnson IV, worth $2.5 billion, who contributed $575,000.</p>
 
-"Unlike those who gave to the 2016 campaign but distanced themselves from Trump after 
+<p>"Unlike those who gave to the 2016 campaign but distanced themselves from Trump after 
 seeing him in action," lamented Collins, "these billionaires and plenty of others gave 
 substantial donations in 2019 and 2020, when it was clear that Trump was causing a 
-crisis in our democracy."
+crisis in our democracy."</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- another article listing billionaires and their donations to trump -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
