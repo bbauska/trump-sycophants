@@ -127,10 +127,10 @@ crisis in our democracy."
       Republicans this cycle.</p>
   </li>
   <li>Elizabeth Uihlein<br>
-    <p>Donations to Trump groups: $5 million | Net worth: $6 billion</p>
+    Donations to Trump groups: $5 million | Net worth: $6 billion<br><br>
   </li>
   <li>Richard Uihlein<br>
-Donations to Trump groups: $5 million | Net worth: $6 billion<br>
+    Donations to Trump groups: $5 million | Net worth: $6 billion<br>
 
 <p>Liz and Dick Uihlein are among the GOP’s most generous donors, giving tens of millions 
 per cycle. They started the packaging-materials company Uline from their basement in 
@@ -217,7 +217,7 @@ he talked to Fox News about the state of the GOP donor class: “everybody’s b
 </li>
 
   <li>Kenny Troutt<br>
-    <p>Donations to Trump groups: $2.2 million | Net worth: $1.7 billion</p>
+    Donations to Trump groups: $2.2 million | Net worth: $1.7 billion<br>
 
 <p>Two things Troutt has been plowing his telecom fortune into: horses and Republican 
 politicians. In 2018, he and his wife Lisa gave $1.3 million to the GOP’s midterm 
@@ -229,19 +229,17 @@ more than $2 million to help return him to the White House.</p>
 </li>
 
   <li>George Bishop<br>
-<p>Donation to Trump groups: $2 million | Net worth: $3.2 billion</p>
-
-<p>The 86-year-old started oil-and-gas producer GeoSouthern Energy in 1981, then cashed 
-out, selling $6 billion in assets to Devon Energy in 2013. Bishop has been giving to 
-Republican causes consistently since 2012, making six-figure donations to Trump in 
-2016 and 2020, before adding another comma to his contributions this cycle, with $1.5 
-million flowing into Trump’s PACs and committees. His wife Kathy chipped in with 
-$500,000 of her own. The couple clearly have a lot to give. In 2023, they established 
-a $100 million scholarship fund at George’s alma mater, Mississippi State University.</p>
-</li>
-
+    Donation to Trump groups: $2 million | Net worth: $3.2 billion<br>
+    <p>The 86-year-old started oil-and-gas producer GeoSouthern Energy in 1981, then cashed 
+	  out, selling $6 billion in assets to Devon Energy in 2013. Bishop has been giving to 
+	  Republican causes consistently since 2012, making six-figure donations to Trump in 
+	  2016 and 2020, before adding another comma to his contributions this cycle, with $1.5 
+	  million flowing into Trump’s PACs and committees. His wife Kathy chipped in with 
+	  $500,000 of her own. The couple clearly have a lot to give. In 2023, they established 
+	  a $100 million scholarship fund at George’s alma mater, Mississippi State University.</p>
+  </li>
   <li>J. Joe Ricketts<br>
-    <p>Donation to Trump groups: $2 million | Net worth: $3.6 billion</p>
+    Donation to Trump groups: $2 million | Net worth: $3.6 billion<br>
     <p>Ricketts, whose family owns the Chicago Cubs, capitalized on the online trading 
       revolution to grow his small brokerage firm into the financial service giant TD 
       Ameritrade, now a subsidiary of Charles Schwab. He and his wife Marlene–who poured 
@@ -255,7 +253,7 @@ a $100 million scholarship fund at George’s alma mater, Mississippi State Univ
       American values.”</p>
   </li>
   <li>Andrew Beal<br>
-    <p>Donations to Trump groups: $1.8 million | Net worth: $12.2 billion</p>
+    Donations to Trump groups: $1.8 million | Net worth: $12.2 billion<br>
     <p>Beal has made a fortune buying up distressed assets–including during the savings and loan 
     crisis and in the wake of the great recession–and has made headlines for his high-stakes 
     poker games and interest in math: In 1997, he established a $1 million prize for the 
@@ -265,10 +263,10 @@ a $100 million scholarship fund at George’s alma mater, Mississippi State Univ
     behind Trump’s 2024 bid.</p>
   </li>
   <li>Cameron Winklevoss<br>
-    <p>Donations to Trump groups: $1.3 million | Net worth: $2.7 billion</p>
+    Donations to Trump groups: $1.3 million | Net worth: $2.7 billion<br>
   </li>
   <li>Tyler Winklevoss<br>
-    <p>Donations to Trump groups: $1.3 million | Net worth: $2.7 billion<br>
+    Donations to Trump groups: $1.3 million | Net worth: $2.7 billion<br>
 
 <p>The identical twins–jokingly referred to in “The Social Network” as the “Winklevii”—are 
 best known for claiming that Mark Zuckerberg stole their idea for Facebook. They received 
@@ -284,8 +282,7 @@ PAC, a pro-Trump super-PAC that Elon Musk says he helped start.</p>
 </li>
 
   <li>Don Ahern<br>
-Donations to Trump groups: $1.1 million | Net worth: $1 billion<br>
-
+    Donations to Trump groups: $1.1 million | Net worth: $1 billion<br>
 <p>Don Ahern owes much of his estimated $1 billion fortune to renting construction 
 equipment. He also owns an off-the-strip Vegas hotel that has become a popular site 
 for conservative gatherings–especially during the pandemic, when Ahern was willing to 
