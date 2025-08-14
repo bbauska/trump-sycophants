@@ -2,8 +2,10 @@
 <h1>These 63 Billionaires Who Bankrolled Trump All the Way to Insurrection Have 'No Right 
 to Feel Shocked'</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<blockquote>
 "Will there be any accountability for these recent billionaire enablers of Donald Trump, 
 who saw what damage he caused and still stood by him?"
+</blockquote>
 <cite>Jon Queally</cite>
 <cite>Jan 12, 2021</cite>
 <blockquote>
@@ -125,9 +127,8 @@ crisis in our democracy."
       Republicans this cycle.</p>
   </li>
   <li>Elizabeth Uihlein<br>
-Donations to Trump groups: $5 million | Net worth: $6 billion<br>
-</li>
-
+    <p>Donations to Trump groups: $5 million | Net worth: $6 billion</p>
+  </li>
   <li>Richard Uihlein<br>
 Donations to Trump groups: $5 million | Net worth: $6 billion<br>
 
@@ -216,7 +217,7 @@ he talked to Fox News about the state of the GOP donor class: “everybody’s b
 </li>
 
   <li>Kenny Troutt<br>
-Donations to Trump groups: $2.2 million | Net worth: $1.7 billion<br>
+    <p>Donations to Trump groups: $2.2 million | Net worth: $1.7 billion</p>
 
 <p>Two things Troutt has been plowing his telecom fortune into: horses and Republican 
 politicians. In 2018, he and his wife Lisa gave $1.3 million to the GOP’s midterm 
@@ -228,7 +229,7 @@ more than $2 million to help return him to the White House.</p>
 </li>
 
   <li>George Bishop<br>
-Donation to Trump groups: $2 million | Net worth: $3.2 billion<br>
+<p>Donation to Trump groups: $2 million | Net worth: $3.2 billion</p>
 
 <p>The 86-year-old started oil-and-gas producer GeoSouthern Energy in 1981, then cashed 
 out, selling $6 billion in assets to Devon Energy in 2013. Bishop has been giving to 
@@ -240,7 +241,7 @@ a $100 million scholarship fund at George’s alma mater, Mississippi State Univ
 </li>
 
   <li>J. Joe Ricketts<br>
-    Donation to Trump groups: $2 million | Net worth: $3.6 billion<br>
+    <p>Donation to Trump groups: $2 million | Net worth: $3.6 billion</p>
     <p>Ricketts, whose family owns the Chicago Cubs, capitalized on the online trading 
       revolution to grow his small brokerage firm into the financial service giant TD 
       Ameritrade, now a subsidiary of Charles Schwab. He and his wife Marlene–who poured 
@@ -254,7 +255,7 @@ a $100 million scholarship fund at George’s alma mater, Mississippi State Univ
       American values.”</p>
   </li>
   <li>Andrew Beal<br>
-    Donations to Trump groups: $1.8 million | Net worth: $12.2 billion<br>
+    <p>Donations to Trump groups: $1.8 million | Net worth: $12.2 billion</p>
     <p>Beal has made a fortune buying up distressed assets–including during the savings and loan 
     crisis and in the wake of the great recession–and has made headlines for his high-stakes 
     poker games and interest in math: In 1997, he established a $1 million prize for the 
@@ -264,10 +265,10 @@ a $100 million scholarship fund at George’s alma mater, Mississippi State Univ
     behind Trump’s 2024 bid.</p>
   </li>
   <li>Cameron Winklevoss<br>
-Donations to Trump groups: $1.3 million | Net worth: $2.7 billion<br>
-</li>
+    <p>Donations to Trump groups: $1.3 million | Net worth: $2.7 billion</p>
+  </li>
   <li>Tyler Winklevoss<br>
-Donations to Trump groups: $1.3 million | Net worth: $2.7 billion<br>
+    <p>Donations to Trump groups: $1.3 million | Net worth: $2.7 billion<br>
 
 <p>The identical twins–jokingly referred to in “The Social Network” as the “Winklevii”—are 
 best known for claiming that Mark Zuckerberg stole their idea for Facebook. They received 
