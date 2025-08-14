@@ -1,6 +1,7 @@
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1>These 63 Billionaires Who Bankrolled Trump All the Way to Insurrection Have 'No Right 
 to Feel Shocked'</h1>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 "Will there be any accountability for these recent billionaire enablers of Donald Trump, 
 who saw what damage he caused and still stood by him?"
 <cite>Jon Queally</cite>
@@ -59,79 +60,70 @@ Hedge fund manager John Paulson, worth $4.2 billion, who donated $831,372; and J
 seeing him in action," lamented Collins, "these billionaires and plenty of others gave 
 substantial donations in 2019 and 2020, when it was clear that Trump was causing a 
 crisis in our democracy."
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- another article listing billionaires and their donations to trump -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol>
   <li>Timothy Mellon<br>
-Donations to Trump groups: $76.5 million | Net worth: Nearly $1 billion<br>
-
-<p>Mellon keeps a low profile–he’s rarely photographed and lists a P.O. box in a 1,000-
-person Wyoming town as his address–but no donor has made a bigger splash this election. 
-An heir to an American fortune that dates back more than a century, he made some money 
-of his own in the railroad industry. Mellon has given more than $75 million to a pro-
-Trump PAC (including a $50 million gift the day after Trump’s felony conviction) and 
-another $25 million to support Robert F. Kennedy Jr.</p></li>
-
+    Donations to Trump groups: $76.5 million | Net worth: Nearly $1 billion<br>
+    <p>Mellon keeps a low profile–he’s rarely photographed and lists a P.O. box in a 1,000-
+      person Wyoming town as his address–but no donor has made a bigger splash this election. 
+      An heir to an American fortune that dates back more than a century, he made some money 
+      of his own in the railroad industry. Mellon has given more than $75 million to a pro-
+      Trump PAC (including a $50 million gift the day after Trump’s felony conviction) and 
+      another $25 million to support Robert F. Kennedy Jr.</p></li>
   <li>Linda McMahon (spouse of Vince McMahon)<br>
     Donations to Trump groups: $16 million | Net worth: $3.1 billion<br>
     <p>McMahon and her husband Vince (now disgraced by sexual misconduct allegations that he 
-denies) built World Wrestling Entertainment into a billion-dollar entertainment 
-juggernaut. She has been involved in politics for years, running unsuccessfully for 
-Senate in Connecticut in 2010 and 2012 and then serving as head of the Small Business 
-Administration under Trump. She’s still close to the center of the MAGA orbit, chairing 
-the pro-Trump nonprofit America First Policy Institute, serving on the board of Truth 
-Social’s parent company, Trump Media and Technology Group and having contributed more 
-than $15 million to Trump’s PACs.</p></li>
-
+	  denies) built World Wrestling Entertainment into a billion-dollar entertainment 
+	  juggernaut. She has been involved in politics for years, running unsuccessfully for 
+	  Senate in Connecticut in 2010 and 2012 and then serving as head of the Small Business 
+	  Administration under Trump. She’s still close to the center of the MAGA orbit, chairing 
+	  the pro-Trump nonprofit America First Policy Institute, serving on the board of Truth 
+	  Social’s parent company, Trump Media and Technology Group and having contributed more 
+	  than $15 million to Trump’s PACs.</p></li>
   <li>Diane Hendricks<br>
     Donations to Trump groups: $6.3 million | Net worth: $20.9 billion<br>
-
-<p>On the stage at the Republican National Convention in her home state of Wisconsin last 
-month, Hendricks celebrated her title of America’s richest self-made woman, spoke about 
-her pro-life views and accused the Biden-Harris administration of stifling 
-entrepreneurship. A former Playboy bunny, her building materials company ABC Supply 
-now does $20 billion in yearly revenue. “I know how hard it is to build a company from 
-nothing,” she said. “And we need a president who understands that too.” She clearly 
-believes Trump fits the bill: she has already poured more than $6 million into groups 
-that support him.</p>
-</li>
-
+	<p>On the stage at the Republican National Convention in her home state of Wisconsin last 
+	  month, Hendricks celebrated her title of America’s richest self-made woman, spoke about 
+	  her pro-life views and accused the Biden-Harris administration of stifling 
+	  entrepreneurship. A former Playboy bunny, her building materials company ABC Supply 
+	  now does $20 billion in yearly revenue. “I know how hard it is to build a company from 
+	  nothing,” she said. “And we need a president who understands that too.” She clearly 
+	  believes Trump fits the bill: she has already poured more than $6 million into groups 
+	  that support him.</p>
+  </li>
   <li>Miriam Adelson<br>
     Donations to Trump groups: $5.8 million | Net worth: $27.8 billion<br>
-
-<p>A medical doctor and the widow of casino magnate and longtime Republican megadonor 
-Sheldon Adelson, Israeli-born Miriam Adelson now owns a majority stake in the Las Vegas 
-Sands casino empire and the NBA’s Dallas Mavericks. The Adelsons gave an eye-popping 
-$220 million to Republican causes in 2020, and Miriam is continuing to give big sums in 
-the wake of Sheldon’s death in 2021. She has spent more than $20 million this cycle, 
-almost all of which came on a single day in May. According to a New York Times report, 
-Adelson plans to spend more than $90 million to support Trump (she’s given $5.8 million 
-so far), but she has a few requests: “Be less bombastic” and “speak more directly about 
-the economy.” She may not follow through on the full amount though–over the weekend, 
-the Times reported that she and Trump recently exchanged a series of angry texts, 
-during which the former president said her PAC was run by “Republicans in name only.”</p>
-</li>
+	<p>A medical doctor and the widow of casino magnate and longtime Republican megadonor 
+	  Sheldon Adelson, Israeli-born Miriam Adelson now owns a majority stake in the Las Vegas 
+	  Sands casino empire and the NBA’s Dallas Mavericks. The Adelsons gave an eye-popping 
+	  $220 million to Republican causes in 2020, and Miriam is continuing to give big sums in 
+	  the wake of Sheldon’s death in 2021. She has spent more than $20 million this cycle, 
+	  almost all of which came on a single day in May. According to a New York Times report, 
+	  Adelson plans to spend more than $90 million to support Trump (she’s given $5.8 million 
+	  so far), but she has a few requests: “Be less bombastic” and “speak more directly about 
+	  the economy.” She may not follow through on the full amount though–over the weekend, 
+	  the Times reported that she and Trump recently exchanged a series of angry texts, 
+	  during which the former president said her PAC was run by “Republicans in name only.”</p>
+  </li>
   <li>Kelcy Warren<br>
-Donations to Trump groups: $5.8 million | Net worth: $6.2 billion<br>
-
-<p>Warren’s publicly-listed Energy Transfer is best known for the highly controversial 
-Dakota Access Pipeline, which Trump helped expedite in one of his first acts in 
-office. Warren had given $100,000 to help elect him in 2016, then dropped more than 
-$11 million in 2020. He’s shelled out close to $6 million this time around, though he 
-also gave some money to Florida Gov. and Trump primary challenger Ron DeSantis last year.</p>
-</li>
-
+    Donations to Trump groups: $5.8 million | Net worth: $6.2 billion<br>
+    <p>Warren’s publicly-listed Energy Transfer is best known for the highly controversial 
+      Dakota Access Pipeline, which Trump helped expedite in one of his first acts in 
+      office. Warren had given $100,000 to help elect him in 2016, then dropped more than 
+      $11 million in 2020. He’s shelled out close to $6 million this time around, though he 
+      also gave some money to Florida Gov. and Trump primary challenger Ron DeSantis last year.</p>
+  </li>
   <li>Timothy Dunn<br>
-Donations to Trump groups: $5 million | Net worth: $2.2 billion<br>
-
-<p>Trump reportedly pushed for $1 billion in contributions from oil executives during a May 
-meeting, but Dunn is among those who didn’t need any asking–he cut a $5 million check to 
-Trump’s super-PAC back in December. Dunn’s West Texas-based well operator CrownQuest is 
-one of the country’s largest private oil companies. He wasn’t on the Trump train in 
-2016, but he started donating in 2020 and has scaled up his giving to Trump and other 
-Republicans this cycle.</p>
-</li>
-
+    Donations to Trump groups: $5 million | Net worth: $2.2 billion<br>
+    <p>Trump reportedly pushed for $1 billion in contributions from oil executives during a May 
+	  meeting, but Dunn is among those who didn’t need any asking–he cut a $5 million check to 
+	  Trump’s super-PAC back in December. Dunn’s West Texas-based well operator CrownQuest is 
+	  one of the country’s largest private oil companies. He wasn’t on the Trump train in 
+	  2016, but he started donating in 2020 and has scaled up his giving to Trump and other 
+	  Republicans this cycle.</p>
+  </li>
   <li>Elizabeth Uihlein<br>
 Donations to Trump groups: $5 million | Net worth: $6 billion<br>
 </li>
@@ -248,35 +240,31 @@ a $100 million scholarship fund at George’s alma mater, Mississippi State Univ
 </li>
 
   <li>J. Joe Ricketts<br>
-Donation to Trump groups: $2 million | Net worth: $3.6 billion<br>
-
-<p>Ricketts, whose family owns the Chicago Cubs, capitalized on the online trading 
-revolution to grow his small brokerage firm into the financial service giant TD 
-Ameritrade, now a subsidiary of Charles Schwab. He and his wife Marlene–who poured 
-$3 million into a Republican anti-Trump group back in 2016–have given a combined $2 
-million to Trump groups so far this cycle. But the TD Ameritrade fortune flows to 
-both sides of the aisle: their daughter Laura, the first openly lesbian owner of a 
-major sports franchise, has recently emerged as a prominent Democratic donor. “The 
-free enterprise system and individualism have been at the heart of American 
-prosperity,” J.Joe Ricketts said in a statement to Forbes explaining his support 
-for Trump. “I support candidates who are committed to preserving those core 
-American values.”</p>
-</li>
-
+    Donation to Trump groups: $2 million | Net worth: $3.6 billion<br>
+    <p>Ricketts, whose family owns the Chicago Cubs, capitalized on the online trading 
+	  revolution to grow his small brokerage firm into the financial service giant TD 
+	  Ameritrade, now a subsidiary of Charles Schwab. He and his wife Marlene–who poured 
+	  $3 million into a Republican anti-Trump group back in 2016–have given a combined $2 
+	  million to Trump groups so far this cycle. But the TD Ameritrade fortune flows to 
+	  both sides of the aisle: their daughter Laura, the first openly lesbian owner of a 
+	  major sports franchise, has recently emerged as a prominent Democratic donor. “The 
+	  free enterprise system and individualism have been at the heart of American 
+	  prosperity,” J.Joe Ricketts said in a statement to Forbes explaining his support 
+	  for Trump. “I support candidates who are committed to preserving those core 
+	  American values.”</p>
+  </li>
   <li>Andrew Beal<br>
-Donations to Trump groups: $1.8 million | Net worth: $12.2 billion<br>
-
-<p>Beal has made a fortune buying up distressed assets–including during the savings and loan 
-crisis and in the wake of the great recession–and has made headlines for his high-stakes 
-poker games and interest in math: In 1997, he established a $1 million prize for the 
-first person to prove or disprove a conjecture he formulated based on Fermat’s Last 
-Theorem. Lately, he’s increasingly bet big on Republican politics. Beal gave more than 
-$4 million Trump committees and other GOP groups in 2020, and he has now put $1.8 million 
-behind Trump’s 2024 bid.</p>
-</li>
-
+    Donations to Trump groups: $1.8 million | Net worth: $12.2 billion<br>
+    <p>Beal has made a fortune buying up distressed assets–including during the savings and loan 
+	crisis and in the wake of the great recession–and has made headlines for his high-stakes 
+	poker games and interest in math: In 1997, he established a $1 million prize for the 
+	first person to prove or disprove a conjecture he formulated based on Fermat’s Last 
+	Theorem. Lately, he’s increasingly bet big on Republican politics. Beal gave more than 
+	$4 million Trump committees and other GOP groups in 2020, and he has now put $1.8 million 
+	behind Trump’s 2024 bid.</p>
+  </li>
   <li>Cameron Winklevoss<br>
-<p>Donations to Trump groups: $1.3 million | Net worth: $2.7 billion</p>
+Donations to Trump groups: $1.3 million | Net worth: $2.7 billion<br>
 </li>
   <li>Tyler Winklevoss<br>
 Donations to Trump groups: $1.3 million | Net worth: $2.7 billion<br>
